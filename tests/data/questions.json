@@ -1,0 +1,320 @@
+[
+ {
+  "questionnaire_id": 1,
+  "question_txt": "Age",
+  "question_type": "text",
+  "page": 1
+ },
+ {
+  "questionnaire_id": 1,
+  "question_txt": "Gender",
+  "question_type": "dropdown",
+  "page": 1
+ },
+ {
+  "questionnaire_id": 1,
+  "question_txt": "Nationality",
+  "question_type": "text",
+  "page": 1
+ },
+ {
+  "questionnaire_id": 1,
+  "question_txt": "Did you have any prior knowledge about these interactive multiobjective optimization methods other than what you have learned in this course?",
+  "question_type": "Boolean",
+  "page": 1
+ },
+ {
+  "questionnaire_id": 1,
+  "question_txt": "How tired are you now?",
+  "question_type": "rating",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 1,
+  "question_txt": "Social",
+  "question_type": "objective",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 1,
+  "question_txt": "Economic",
+  "question_type": "objective",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 1,
+  "question_txt": "Environmental",
+  "question_type": "objective",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "I am now feeling tired.",
+  "question_type": "matrix",
+  "page": 1
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "I am satisfied with my final solution of this phase.",
+  "question_type": "matrix",
+  "page": 1
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "Please describe why you are satisfied\/dissatisfied with this solution",
+  "question_type": "text",
+  "page": 1
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "The solution process during this phase helped me to understand more about the tradeoffs in this problem.",
+  "question_type": "matrix",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "A lot of mental activity (e.g., thinking, deciding, and remembering) was required to find my final solution of this phase.",
+  "question_type": "matrix",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "It was easy to learn to use the method in this phase.",
+  "question_type": "matrix",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "I felt I was in control during this phase of the solution process. ",
+  "question_type": "matrix",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "Based on your expected and achieved objective function values (in the final solution of this phase), what are your main lessons learned?",
+  "question_type": "text",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "What did you find new or unexpected compared to what you knew or expected before starting the solution process? Please specify.",
+  "question_type": "text",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "Overall, I am satisfied with the ease of this phase of the solution process.",
+  "question_type": "matrix",
+  "page": 3
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "Overall, I am satisfied with the amount of time it took to finish this phase of the solution process.",
+  "question_type": "matrix",
+  "page": 3
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "I felt frustrated during this phase of solution process (e.g., insecure, discouraged, irritated, stressed).",
+  "question_type": "matrix",
+  "page": 3
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "Please, explain why you did or did not feel frustrated during this phase of the solution process.",
+  "question_type": "text",
+  "page": 3
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "Phase 1 enabled me to explore solutions with different conflicting values of the objective functions. ",
+  "question_type": "matrix",
+  "page": 4
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "Phase 1 enabled me to learn about the conflict degrees among the objective functions.",
+  "question_type": "matrix",
+  "page": 4
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "Phase 1 enabled me to direct the search towards a set of interesting solutions.",
+  "question_type": "matrix",
+  "page": 4
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "I was able to fine-tune my final solution of this phase.",
+  "question_type": "matrix",
+  "page": 4
+ },
+ {
+  "questionnaire_id": 2,
+  "question_txt": "Do you have other comments about Phase 1? If so, please specify.",
+  "question_type": "text",
+  "page": 4
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "I am now feeling tired ",
+  "question_type": "rating",
+  "page": 1
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "I am satisfied with my final solution. ",
+  "question_type": "rating",
+  "page": 1
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "Please describe why you are satisfied\/dissatisfied with your final solution.",
+  "question_type": "text",
+  "page": 1
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "Compared to the final solution of phase 1, I was able to find a more satisfactory final solution in phase 2. (Scale 1 to 5).",
+  "question_type": "rating",
+  "page": 1
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "The solution process during this phase helped me to understand more about the tradeoffs in this problem. ",
+  "question_type": "matrix",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "A lot of mental activity (e.g., thinking, deciding, and remembering) was required to find my final solution.",
+  "question_type": "matrix",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "The process of finding the final solution was difficult.",
+  "question_type": "matrix",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "It was easy to learn to use the method in this phase. ",
+  "question_type": "matrix",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "I felt I was in control during the solution process in this phase. ",
+  "question_type": "matrix",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "I felt comfortable using the method in this phase.",
+  "question_type": "matrix",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "What did you find new or unexpected compared to what you knew or expected after Phase 1? Please specify.",
+  "question_type": "text",
+  "page": 2
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "Overall, I am satisfied with the ease of the solution process in this phase.",
+  "question_type": "matrix",
+  "page": 3
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "Overall, I am satisfied with the amount of time it took to finish the solution process in this phase.",
+  "question_type": "matrix",
+  "page": 3
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "I felt frustrated in the solution process (e.g., insecure, discouraged, irritated, stressed).",
+  "question_type": "matrix",
+  "page": 3
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "Please, explain why you did or did not feel frustrated during the solution process.",
+  "question_type": "text",
+  "page": 3
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "Phase 2 enabled me to explore solutions with different conflicting values of the objective functions.",
+  "question_type": "matrix",
+  "page": 4
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": " Phase 2 enabled me to learn about the conflict degrees among the objective functions.",
+  "question_type": "matrix",
+  "page": 4
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "Phase 2 enabled me to direct the search towards a set of interesting solutions. ",
+  "question_type": "matrix",
+  "page": 4
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "Phase 2 played an important role in fine-tuning the final solution.",
+  "question_type": "matrix",
+  "page": 4
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "Phase 2 increased my confidence in the final solution.",
+  "question_type": "matrix",
+  "page": 4
+ },
+ {
+  "questionnaire_id": 3,
+  "question_txt": "Do you have other comments about Phase 2? If so, please specify.",
+  "question_type": "text",
+  "page": 4
+ },
+ {
+    "questionnaire_id": 4,
+    "question_txt": "Using the two phases supported me in finding the final solution. ",
+    "question_type": "matrix",
+    "page": 1
+   },
+   {
+    "questionnaire_id": 4,
+    "question_txt": "The types of preference information required in the two phases were different. Switching between these types of preference information was easy.",
+    "question_type": "matrix",
+    "page": 1
+   },
+   {
+    "questionnaire_id": 4,
+    "question_txt": "I feel that the final solution is better than the one obtained at the end of Phase 1. ",
+    "question_type": "matrix",
+    "page": 1
+   },
+   {
+    "questionnaire_id": 4,
+    "question_txt": "Starting with Phase 1 made it easy to find a good final solution at the end of the solution process.",
+    "question_type": "matrix",
+    "page": 1
+   },
+   {
+    "questionnaire_id": 4,
+    "question_txt": "Was Phase 2 important for you to find your final solution? Whether yes or no, please describe why.",
+    "question_type": "text",
+    "page": 1
+   },
+   {
+    "questionnaire_id": 4,
+    "question_txt": "Did you learn something new about the trade-offs of the problem in Phase 2 compared to Phase 1? Whether yes or no, please describe.",
+    "question_type": "text",
+    "page": 1
+   }
+]
